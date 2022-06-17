@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Productive</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="action_settings">Settings</string>
+
+
+    //Headings
+    <string name="heading_one">Main Menu</string>
+    <string name="heading_two">Add Time</string>
+    <string name="heading_three">Task</string>
+    <string name="heading_fourth">Deleting Task</string>
+    <string name="heading_five">Grocery Menu</string>
+    <string name="heading_six">Grocery List</string>
+    <string name="heading_seven">Deleting Item</string>
+    <string name="heading_eight">Daily Todo List</string>
+
+    //Description
+    <string name="desc_one">This Is Main Menu, Tap on Any Button</string>
+    <string name="desc_two">Here you have to add time,Move the needle and select the targeted Hour and minutes. </string>
+    <string name="desc_three">Type the Task Title and add the Description.  </string>
+    <string name="desc_fourth">Tape on the available task, A popup of Delete will appear, you can delete the tasks. </string>
+    <string name="desc_five">In Grocery, you can add the item and quantity of it. </string>
+    <string name="desc_six">You can see all the list of item you have added in grocery list.</string>
+    <string name="desc_seven">Tape on the items , A popup of Delete will appear, you can delete the item.</string>
+    <string name="desc_eight">Here, You have to check the daily todo task, you can measure your productivity whether you have done those tasks or not, Add tick on tasks accordingly, You can add and remove tasks. </string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_tasks">tasks</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
